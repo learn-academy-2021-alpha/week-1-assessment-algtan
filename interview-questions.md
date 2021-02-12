@@ -8,6 +8,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 1. What is a function? Why would you use one?
 
   Your answer:
+  In JavaScript, a function is an object that can be used to run a set of code. The benefits of a function is that it is reusable.
 
   Researched answer:
 
